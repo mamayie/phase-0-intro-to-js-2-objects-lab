@@ -1,6 +1,6 @@
 // Write your solution in this file!
 const employee = {
-    name : "Malik",
+    name : "Mohammed",
     streetAddress : "15 Bob"
   };
   
